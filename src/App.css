@@ -1,0 +1,25 @@
+/* src/App.css */
+
+/* 
+  Most global styles are now in src/index.css.
+  This file can be used for App-specific layout or component-level overrides
+  if not using CSS Modules or other component-specific CSS files.
+*/
+
+/* 
+  For example, if .App needs specific layout rules not covered by #root:
+  .App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; // Ensure it takes at least the full viewport height
+  }
+
+  main {
+    flex-grow: 1; // Allows main content to expand
+    padding: 1rem; // Padding for the main content area
+    width: 100%;
+  }
+*/
+
+/* The styles for .App and main are already in index.css, so this file can be kept minimal. */
+/* Removing Vite's default .logo, .card, .read-the-docs styles. */
